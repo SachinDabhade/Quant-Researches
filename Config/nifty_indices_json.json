@@ -1,0 +1,656 @@
+{
+    "Nifty 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY--50",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Next 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-next-50",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty 100": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-100",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty 200": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-microcap-250-dummy/nifty-200",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty 500": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-500",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Midcap 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-50",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "NIFTY Midcap 100": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-Midcap-100",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "NIFTY Smallcap 100": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/NIFTY-Smallcap-100",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Smallcap 250": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap250/nifty-commodities",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Smallcap 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap50",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Midcap 150": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-150",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Midcap Select": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midcap-select-index",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "NIFTY LargeMidcap 250": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-largemidcap-250",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty500 Multicap 50_25_25": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty500-multicap-50-25-25-index",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Microcap 250": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-microcap-250-dummy/nifty-200",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty500 LargeMidSmall Equal-Cap Weighted": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty500-large-midsmall-equal-cap-weighted",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty MidSmallcap 400": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-midsmallcap-400",
+        "Status": "Working",
+        "Category": "Broad Market Indices",
+        "Note": ""
+    },
+    "Nifty Auto": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-auto",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Bank": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-bank",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Financial Services": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-financial-services",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty FMCG": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-fmcg",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty IT": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-it",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Media": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-media",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Metal": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-metal",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Pharma": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-pharma",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty PSU Bank": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-psu-bank",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Realty": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-realty",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Private Bank": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-private-bank",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Financial Services 25_50": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-financial-services-25-50-index",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Healthcare Index": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-healthcare-index",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty MidSmall Financial Services": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-midsmall-financial-services",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty MidSmall Healthcare": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-midsmall-healthcare",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty MidSmall IT & Telecom": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-midsmall-it-telecom",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Consumer Durables": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-consumer-durables-index",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Chemicals": {
+        "URL": "https://niftyindices.com/indices/equity/sectoral-indices/nifty-chemicals",
+        "Status": "Working",
+        "Category": "Sectoral Indices",
+        "Note": ""
+    },
+    "Nifty Dividend Opportunities 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-dividend-opportunities-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Low Volatility 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-low-volatility-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Alpha 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-alpha-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty High Beta 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-high-beta-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty100 Equal Weight": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-100-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty50 Value 20": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-50-value-20",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Growth Sectors 15": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-growth-sectors-15",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY100 Quality 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty100-quality-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Top 10 Equal Weight": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty-top-10-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Multicap Momentum Quality 50": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-multicap-momentum-quality-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Top 15 Equal Weight": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty-top-15-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Top 20 Equal Weight": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty-top-20-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Quality 50": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-quality-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Low Volatility 50": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-low-volatility-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY500 Value 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty500-value-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY100 Alpha 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty100-alpha-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY50 Equal Weight": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty50-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Equal Weight": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-equal-weight",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Oil & Gas": {
+        "URL": "https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-oil-and-gas-index",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Multifactor MQVLv 50": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-multifactor-mqvlv-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Flexicap Quality 30": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty500-flexicap-quality-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY Alpha Low-Volatility 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-alpha-low-volatility-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty100 Low Volatility 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-100-low-volatility",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY Quality Low-Volatility 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-quality-low-volatility-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY Alpha Quality Low-Volatility 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-alpha-quality-low-volatility-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY Alpha Quality Value Low-Volatility 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-alpha-quality-value-low-volatility-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY200 Quality 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty200-quality-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "NIFTY Midcap150 Quality 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-midcap150-quality-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty200 Momentum 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty200-momentum-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty200 Alpha 30": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty200-alpha-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Midcap150 Momentum 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-midcap150-momentum-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Smallcap250 Quality 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-smallcap250-quality-50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Smallcap250 Momentum Quality 100": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/niftsmallcap250-momentum-quality-100",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty MidSmallcap400 Momentum Quality 100": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty-midsmallcap400-momentum-quality100",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty500 Momentum 50": {
+        "URL": "https://www.niftyindices.com/indices/equity/strategy-indices/nifty500--momentum--50",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty200 Value 30": {
+        "URL": "https://niftyindices.com/indices/equity/strategy-indices/nifty200-value-30",
+        "Status": "Working",
+        "Category": "Strategy Indices",
+        "Note": ""
+    },
+    "Nifty Energy": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-energy",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty MNC": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-mnc",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Consumption": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-india-consumption",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Commodities": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/niftysmallcap250/nifty-commodities",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Infrastructure": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-infrastructure",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty PSE": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-pse",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Services Sector": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-services-sector",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty100 Liquid 15": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-100-liquid-15",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty CPSE": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-cpse",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Midcap Liquid 15": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-midcap-liquid-15",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Corporate Group Index - Mahindra Group": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-corporate-group-index---mahindra-group",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Corporate Group Index - Aditya Birla Group": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-corporate-group-index---aditya-birla-group",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Corporate Group Index - Tata Group": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-corporate-group-index---tata-group-25-cap",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Corporate Group Index - Tata Group 25% Cap": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-corporate-group-index---tata-group-25-cap",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "NIFTY SME EMERGE": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-sme-emerge",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Digital": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-digital",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Mobility": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-mobility",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Defence": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-india-defence",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Housing": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-housing",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty REITs & InvITs": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-reits-invits",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Core Housing": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-core-housing",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty500 Multicap Infrastructure 50_30_20": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty500-multicap-india-manufacturing-50-30-20",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Rural": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-rural",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Capital Markets": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-capital-markets",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India New Age Consumption": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-new-age-consumption",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Select 5 Corporate Groups (MAATR)": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-select-5-corporate-groups-(maatr)",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Railways PSU": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-railways-psu",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Non-Cyclical Consumer": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-non-cyclical-consumer",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty500 Multicap India Manufacturing 50_30_20": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty500-multicap-infrastructure-50-30-20",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty EV & New Age Automotive": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-ev-new-age-automotive",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Tourism": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-india-tourism",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty IPO": {
+        "URL": "https://niftyindices.com/indices/equity/thematic-indices/nifty-ipo",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty India Manufacturing": {
+        "URL": "https://www.niftyindices.com/indices/equity/thematic-indices/nifty-india-manufacturing",
+        "Status": "Working",
+        "Category": "Thematic Indices",
+        "Note": ""
+    },
+    "Nifty Total Market": {
+        "URL": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-total-market",
+        "Status": "Working",
+        "Category": "",
+        "Note": "Indices --> Equity -->  Broad based Indices"
+    },
+    "Nifty BHARAT Bond Index - April 2030": {
+        "URL": "https://www.niftyindices.com/indices/fixed-income/target-maturity-index/nifty-bharat-bond-index-april-2030",
+        "Status": "Working",
+        "Category": "",
+        "Note": "Fixed Income -->  Target Maturity Indices [Category]"
+    },
+    "Nifty BHARAT Bond Index - April 2031": {
+        "URL": "https://www.niftyindices.com/indices/fixed-income/target-maturity-index/nifty-bharat-bond-index-april-2030",
+        "Status": "Working",
+        "Category": "",
+        "Note": "Fixed Income -->  Target Maturity Indices [Category]"
+    },
+    "Nifty BHARAT Bond Index - April 2032": {
+        "URL": "https://www.niftyindices.com/indices/fixed-income/target-maturity-index/nifty-bharat-bond-index-april-2032",
+        "Status": "Working",
+        "Category": "",
+        "Note": "Fixed Income -->  Target Maturity Indices [Category]"
+    },
+    "Nifty BHARAT Bond Index - April 2033": {
+        "URL": "https://www.niftyindices.com/indices/fixed-income/target-maturity-index/nifty-bharat-bond-index---april-2033",
+        "Status": "Working",
+        "Category": "",
+        "Note": "Fixed Income -->  Target Maturity Indices [Category]"
+    }
+}

@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Algo Trading Project" id="1">
+    <mxGraphModel dx="872" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="main" value="main.py" style="ellipse;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="715" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="config" value="config/" style="rounded=1;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="25" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="data" value="data/ (historical, realtime)" style="rounded=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="225" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="strategies" value="strategies/ (mean_reversion, momentum)" style="rounded=1;fillColor=#E1D5E7;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="execution" value="execution/ (broker_api, order_manager)" style="rounded=1;fillColor=#D5E8D4;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="95" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="risk" value="risk/ (risk_manager, portfolio_optimizer)" style="rounded=1;fillColor=#F8CECC;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="605" y="610" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="utils" value="utils/ (data_fetcher, logger, performance)" style="rounded=1;fillColor=#E6E6E6;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="605" y="500" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="req" value="requirements.txt" style="rounded=1;fillColor=#CCCCFF;" parent="1" vertex="1">
+          <mxGeometry x="25" y="615" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-1" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="config" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-2" style="edgeStyle=orthogonalEdgeStyle;exitX=0.216;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="data" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-3" style="edgeStyle=orthogonalEdgeStyle;exitX=0.626;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="strategies" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-4" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="execution" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="185" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-5" style="edgeStyle=orthogonalEdgeStyle;exitX=0.593;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="risk" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="216" />
+              <mxPoint x="450" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-6" style="edgeStyle=orthogonalEdgeStyle;exitX=0.616;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="utils" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="190" />
+              <mxPoint x="690" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8A0QJ5KeHPBkDwpp7OD-7" style="edgeStyle=orthogonalEdgeStyle;" parent="1" source="ehtoKtaVdyUXYKJnbV5o-8" target="req" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ehtoKtaVdyUXYKJnbV5o-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="608.75" y="170" as="sourcePoint" />
+            <mxPoint x="770" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609" y="190" />
+              <mxPoint x="770" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ehtoKtaVdyUXYKJnbV5o-8" value="Quant Researches - An Algorithmic Trading Platform" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="221.25" y="160" width="387.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
